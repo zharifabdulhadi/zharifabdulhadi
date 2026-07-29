@@ -1,9 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FAF9F6&height=120&section=header" alt="header"/> 
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=FAF9F6&width=435&lines=Hello%2C+it's+zharifabdulhadi+;Mechanical+Engineer" alt="Mechanical Engineer"/>
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7F7F7&width=435&lines=Hello!+Welcome+to+my+profile" alt="Typing SVG" /></a>
 
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=py,github,git,html,css,ps,notion)](https://skillicons.dev)
